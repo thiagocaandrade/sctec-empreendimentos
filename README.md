@@ -20,7 +20,7 @@ Este projeto foi desenvolvido seguindo a arquitetura MVC em camadas (controller,
 - [Banco de dados](#banco-de-dados)
 - [Testes](#testes)
 - [Documentação da API](#documentação-da-api)
-- [Pitch em vídeo](#pitch-em-vídeo)
+- [Vídeo](#pitch-em-vídeo)
 
 ---
 
